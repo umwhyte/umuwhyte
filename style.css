@@ -1,0 +1,56 @@
+body{
+   
+    background-image:url("https://cdn-mf0.heartyhosting.com/sites/mensfitness.com/files/soccer-kick-goal-kickoff-1280.jpg")
+}
+h1{color:goldenrod}
+#navbar {
+    background-color:#FFFAFA;
+     height: 25px;
+    font-family: "Comic Sans MS",cursive,sans-sherif;
+}
+.navlink{
+    display:inline;
+} 
+.navlink a{
+    color:goldenrod;
+    float: caret;
+    padding: 13px;
+    text-decoration: none;
+    font-size: 1.00em;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    
+ 
+}
+p2{
+    color: White;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    
+   
+    width: 400px;   
+}
+P3{
+    color: white;
+}
+div.gallery {
+    float: caret;
+    height: 25px;
+    
+}
+div.gallery {
+    float: right;
+    text-align: center;
+    color: gold;
+    margin-top: 0.5em;
+     margin: 150px;
+    display: right;
+}
+
+
+
+
+
+
